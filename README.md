@@ -1,6 +1,6 @@
 # ARROSEUR-AUTOMATIQUE-NEW-CONCEPT-DFTA211
 
-Ce système est rustique est très simple.
+Ce système est rustique et très simple.
 Evitons de tomber dans le gadget inutile.
 Jusque maintenant je n’avais pas encore eu le besoin de d’arroseur automatique mais un ami m’a offert une très jolie plante d’intérieur et voyant les ponts du mois de mai arriver à grand pas, j’ai ressenti le besoin de développer ce dispositif.
 
